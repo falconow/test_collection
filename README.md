@@ -1,3 +1,5 @@
 # Ansible Collection - falconow.test_collection
 
-Documentation for the collection.
+Тестовая коллекция, которая содержит модуль по созданию файла
+и роль которая его запускает.
+
