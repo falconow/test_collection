@@ -1,6 +1,6 @@
 ---
 - name: Create file
-  my_module:
+  falconow.test_collection.my_module:
     path: "/tmp/netology_test"
     name: "script.py"
     content: "This is script created Module"
